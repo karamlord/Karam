@@ -7,7 +7,7 @@
 <p>Follow me on twitter</p>
 </br>
 <li>Follow me on Twitter and follow the latest updates and features and about WhatsApp</li>
-<li>Click on Update and you will be you move to my Twitter account</li>
+<li>Click on Update and will be you move to my Twitter account</li>
 
 ","url":"https://twitter.com/klmods"
 }
