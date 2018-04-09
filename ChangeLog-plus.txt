@@ -10,5 +10,7 @@
 </br>
 <li>Hello my friends, For All Who Want To Donate Here Is My PayPaL Account, Thanks For All 😘</li>
 
+<p>Click on Update to open paypal</ p>
+
 ","url":"https://www.paypal.me/karamlord"
 }
