@@ -1,59 +1,14 @@
-{"version_code":451201,"content":"
-<p>تحديث 6.40</p>
+{"version_code":451203,"content":"
+<p>تبرع لي عبر باي بال< 🌹/p>
 </br>
-<p>يجب تحديث هذا الواتساب الان لأن سوف تتوقف عن العمل بعد ايام قليلة</p>
+<p>اضغط على تحديث ليتم نقلك لصفحة الدعم المادي</p>
 </br>
-<li>التحديث لنسخة الماركت 2.18.46</li>
-<li>(حصريا) الان عندما يقوم احد ما بحذف رسالة من جهازك سيأتيك اشعار يخبرك بالرسالة التي يريد حذفها (استردادها)</li>
-<li>تفعيل ميزة وضع وصف للمجموعات</li>
-<li>(حصريا) يمكنك مشاهدة وصف اي مجموعة داخل المحادثة</li>
-<li>إعادة الخيار 6.19 لتشغيل الفيديوهات بالمشغل الخاص بك</li>
-<li>عندما يقوم احد ما بتوجيه رسالة لك في اي مجموعة ستظهر علامة @ اسفل المحادثة</li>
-<li>إعادة زر تحويل اي فيديو لصورة متحركة والعكس</li>
-<li>أضافة خيار لتعطيل اهتزاز WhatsApp باعلى شاشة المحادثات (افتح المحادثات المخفية ثم الاعدادات)</li>
-<li>إضافة خيار لتعطيل ظهور عدد الرسائل المخفية على ايقونة البرنامج (افتح المحادثات المخفية ثم الاعدادات)</li>
-<li>دعم تغيير ثيم شاشة إنشاء مجموعة جديدة - رسالة جماعية جديدة - رسالة مجدولة - المحادثات المخصصة</li>
-<li>إضافة القسم 2.8 لتغيير ثيم شاشة الرسائل المميزة بنجمة</li>
-<li>إضافة الخيار رقم 2.2.30A لتغيير حجم نص متصل الان واخر ظهور في شاشة المحادثات الرئيسية</li>
-<li>إضافة الخيار رقم 2.4.13A لتغيير حجم نص متصل الان واخر ظهور في شاشة الاسماء</li>
-<li>إضافة الخيار رقم 1.2.66 لاخفاء عرض وصف المجموعات في المحادثة</li>
-<li>إضافة الخيار رقم 1.2.67 لتغيير لون اللقب في المجموعة</li>
-<li>إصلاح الخيار 6.11 لتعطيل ظهور الإشعارات المنبثقة في اصدار اوريو 8.0</li>
-<li>إصلاح ظهور اسم المشرف بجانب الاسم في المجموعات</li>
-<li>إصلاح الخيار رقم 1.1.10 لتغيير خلفية ارفاق الوسائط</li>
-<li>إصلاح حذف الرد التلقائي</li>
-<li>إصلاح الرد التلقائي عند اختيار وقت البدء مساءً ووقت الانتهاء </li>
-<li>إصلاح فتح المحادثات المخفية من معلومات المجموعة ثم النقر على صورة المحادثة</li>
-<li>إصلاح فتح المحادثات المخفية من خلال المجموعات المشتركة</li>
-<li>إصلاحات اخرى</li>
+<li>مرحبا 🌹 ،  قم بدعمي ب مبلغ مادي إن اعجبتك برامجي لكي اقوم بتطوير بشكل افضل ولكي اقوم بلاستمرار في التطوير 😘
+</li>
+</br>
+<p>Donate me by paypal 🌹</p>
+</br>
+<li>Hello my friends, For All Who Want To Donate Here Is My PayPaL Account, Thanks For All 😘</li>
 
-<li> New Base Updated to 2.18.46</li>
-<li> (Super - Exclusive) Notification of Revoked Message (Know Which Message was Revoked) </li>
-<li> (Exclusively) Fixed Disable Heads-up for Oreo Users (Mod 6.11)</li>
-<li> (Exclusively) Added Back Play Video in your Favourite Player (Mod 6.19)</li>
-<li> Enabled Group Description</li>
-<li> (Exclusive) Added Group Description in Header Like Status</li>
-<li> Enabled Payments (You need to ask someone who is already payments activated to activate for you) (Country Specific) </li>
-<li> Enabled Mention Button</li>
-<li> Added Option to Hide Group Description from Groups Header (Mod 1.2.66)</li>
-<li> Added Back Option to Convert Video to GIF</li>
-<li> Added Option to Edit Auto Reply Message</li>
-<li> Improved AutoReply</li>
-<li> Added Option to Disable Header Vibration when Receive Message from Hidden Chat (Hidden Chats Page - Click on Settings Icon) </li>
-<li> Added Option to Hide Count on Icon for Hidden Chat (Hidden Chats Page - Click on Settings Icon) </li>
-<li> Added Themed New Group Page</li>
-<li> Added Themed New Broadcast Page</li>
-<li> Added Themed Custom Chats Screen</li>
-<li> Added Themed Scheduler Page</li>
-<li> Added Option to Color Unsaved Participants Name in Group (Mod 1.2.67)</li>
-<li> Added Online/Last Seen Text Size on Main Screen (Mod 2.2.30A)</li>
-<li> Added Online/Last Seen Text Size on Contacts Screen (Mod 2.4.13A)</li>
-<li> Fixed Admin Caption (Mod 1.2.64)</li>
-<li> Fixed delete AutoReply</li>
-<li> Fixed Hidden Chat counter Showing On Widget</li>
-<li> Fixed Hidden Chat Opening from Group Info</li>
-<li> Fixed Hidden Group Opening from Groups in Common</li>
-<li> Many More Fixes</li>
-
-","url":"https://twitter.com/klmods"
+","url":"https://www.paypal.me/karamlord"
 }
