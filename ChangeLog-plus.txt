@@ -1,15 +1,26 @@
-{"version_code":451203,"content":"
-<p>تحديث 6.40</p>
+{"version_code":451205,"content":"
+<p>تحديث 6.50</p>
 
 </br>
 <li>يجب التحديث الان لان هذة النسخة سوف تتوقف عن العمل خلال بضع ايام قليلة</li>
 </br>
-<li>التحديث لنسخة الماركت 2.18.46</li>
+<li>التحديث لنسخة الماركت 2.18.122</li>
+<li>(حصريا) اضافة ارسال  زر القلب في المحادثة مثل الانستغرام</li>
 <li>(حصرياً) اضافة خيار لنقل الدردشات الى KLWhatsApp بضغطة زر واحدة (اضغط نسخ ثم ثبت النسخة الثانية واضغط استعادة الدردشات من WhatsApp ثم فعل رقمك الثاني)</li>
 <li>(حصرياً) اضافة خيارين لتغيير شكل الشاشة الرئيسية</li>
 <li>(حصرياً) اضافة خيارين لتغيير شكل الشاشة الرئيسية</li>
 <li>(حصرياً) اضافة خيار لإخفاء ازرار العائمة من شاشة الحالة / المكالمات</li>
-<li>اضافة خيار اظهار صحين القراءة بعد الرد على الرسالة (قد لا تعمل على بعض الاجهزة)</li>
+<li>(حصريا) اضافة ارسال  زر القلب في المحادثة مثل الانستغرام</li>
+<li>تم حذف ايقونة الانترنت من الواجهة الرئيسية واضافته في الزر العائم (يمكنك اظهاره من خيار اظهار ايقونة الانترنت)*اضافة خيار المزيد في القائمة (منيو)</li>
+<li>امكانية تغيير لون ايقونة الواتساب في اوريو 8.0</li>
+<li>اضافة خيار المساعدة والتعليمات في خيار</li>
+<li>اضافة خيار اخفاء ايقونة الفيديو من الشريط العلوي</li>
+<li>اضافة خيار اخفاء الاسم جهة الاتصال في الشاشة الرئيسية</li>
+<li>اضافة خيار اخفاء الاسم جهة الاتصال في شاشة الحالة</li>
+<li>اضافة خيار اخفاء الاسم جهة الاتصال في جهات الاتصال</li>
+<li>اضافة خيار اخفاء الاسم جهة الاتصال في المكالمات</li>
+<li>اضافة خيار اخفاء الاسم جهة الاتصال في جهة الاتصال</li>
+<li>اضافة خيار اخفاء الاسم جهة الاتصال في معلومات جهة الاتصال</li>
 <li>تعديلات وتحسينات على زر العائم</li>
 <li>تعديلات وتحسينات على القائمة (منيو)</li>
 <li>تعديلات وتحسينات على قفل البرنامج</li>
@@ -30,33 +41,42 @@
 <li>اضافة تبديل الحساب (يمكنك فتح حسابين في واتساب واحد)</li>
 <li>اضافة اللغة الالمانية في خيار تغيير لغة البرنامج</li>
 <li>اضافة خيار لتعطيل الاشعار عند تشغيل رسالة صوتية (قد لاتعمل على بعض الاجهزة)</li>
-<li>(حصريا) الان عندما يقوم احد ما بحذف رسالة من جهازك سيأتيك اشعار يخبرك بالرسالة التي يريد حذفها (استردادها)</li>
-<li>تفعيل ميزة وضع وصف للمجموعات</li>
-<li>(حصريا) يمكنك مشاهدة وصف اي مجموعة داخل المحادثة</li>
-<li>إعادة الخيار 6.19 لتشغيل الفيديوهات بالمشغل الخاص بك</li>
-<li>عندما يقوم احد ما بتوجيه رسالة لك في اي مجموعة ستظهر علامة @ اسفل المحادثة</li>
-<li>إعادة زر تحويل اي فيديو لصورة متحركة والعكس</li>
-<li>أضافة خيار لتعطيل اهتزاز WhatsApp باعلى شاشة المحادثات (افتح المحادثات المخفية ثم الاعدادات)</li>
-<li>إضافة خيار لتعطيل ظهور عدد الرسائل المخفية على ايقونة البرنامج (افتح المحادثات المخفية ثم الاعدادات)</li>
-<li>دعم تغيير ثيم شاشة إنشاء مجموعة جديدة - رسالة جماعية جديدة - رسالة مجدولة - المحادثات المخصصة</li>
-<li>إضافة القسم 2.8 لتغيير ثيم شاشة الرسائل المميزة بنجمة</li>
-<li>إضافة الخيار رقم 2.2.30A لتغيير حجم نص متصل الان واخر ظهور في شاشة المحادثات الرئيسية</li>
-<li>إضافة الخيار رقم 2.4.13A لتغيير حجم نص متصل الان واخر ظهور في شاشة الاسماء</li>
-<li>إضافة الخيار رقم 1.2.66 لاخفاء عرض وصف المجموعات في المحادثة</li>
-<li>إضافة الخيار رقم 1.2.67 لتغيير لون اللقب في المجموعة</li>
-<li>إصلاح الخيار 6.11 لتعطيل ظهور الإشعارات المنبثقة في اصدار اوريو 8.0</li>
-<li>إصلاح ظهور اسم المشرف بجانب الاسم في المجموعات</li>
-<li>إصلاح الخيار رقم 1.1.10 لتغيير خلفية ارفاق الوسائط</li>
-<li>إصلاح حذف الرد التلقائي</li>
-<li>إصلاح الرد التلقائي عند اختيار وقت البدء مساءً ووقت الانتهاء </li>
-<li>إصلاح فتح المحادثات المخفية من معلومات المجموعة ثم النقر على صورة المحادثة</li>
-<li>إصلاح فتح المحادثات المخفية من خلال المجموعات المشتركة</li>
+<li>يمكن للمشرفين الان منع الاعضاء من ارسال الرسائل في المجموعات</li>
+<li>يمكنك الان تسجيل مقاطع صوتية بدون الحاجة للضغط المطول على زر تسجيل الصوت</li>
+<li>يمكن تخصيص الرد التلقائي لمحادثات معينة او استثناء محادثات معينة</li>
+<li>إضافة الخيار رقم 2.7.9 لاختيار شكل الزر العائم كالواتس الرسمي</li>
+<li>إضافة الخيار رقم 2.1.11 لاخفاء زر انشاء دردشة جديدة من المحادثات</li>
+<li>إضافة الخيار رقم 6.20 لتعطيل ظهور تنبيه بان هناك رسائل مسترجعة(محذوفة)</li>
+<li>إضافة خيار لتعطيل الرد التلقائي في حال اخفاء صحين القراءة</li>
+<li>إضافة الخيار رقم 1.1.16 لإظهار ايقونة الفيديو في المحادثة</li>
+<li>يمكنك الان معرفة المحادثات التي قمت بتفعيل التحميل التلقائي لها.(افتح الواتساب - خيارات - المحادثات المخصصة)</li>
+<li>يمكنك الان البحث عن الثيمات من خلال اسم الثيم</li>
+<li>إصلاح لون الاسماء عند اضافة عضو جديد لاي مجموعة</li>
+<li>إصلاح لون فقاعات الدردشة</li>
+<li>إصلاح إخفاء اشارة التشغيل</li>
+<li>إصلاح عدم ظهور ايقونة الارفاق في محادثة الرسائل الجماعية</li>
+<li>إصلاح لون الشريط العلوي للمحادثات المخفية و المؤرشفة</li>
+<li>تحديث اللغة الايطالية والبرازيلية</li>
 <li>إصلاحات اخرى</li>
 
-<li> New Base Updated to 2.18.46</li>
+<li> New Base Updated to 2.18.122</li>
+<li> (Exclusive) Added heart button in the chat screen</li>
 <li>(Exclusive) Add option to transfer chats to KLWhatsApp with the click of a button (press Copy and then install the second version and press Restore chats from WhatsApp and then do your second number)</li>
 <li> (Exclusive) Add two options to change the main screen</li>
 <li> (Exclusive) Add option to hide floating buttons from the Status / Calls screen</li>
+<li> DND Mode has been deleted from the action bar of chats screen and added in floating bottom</li>
+<li> Added Oreo WhatsApp Launcher icon</li>
+<li> Added option to show DND Mode icon in action bar of chats screen</li>
+<li> Added the (more) option in menu</li>
+<li> Added the Help option in the More option</li>
+<li> Added option to hide the video icon from the top bar</li>
+<li> Added option to show the attachment icon from the top bar of the conversation</li>
+<li> Added option to hide the contact name on the home screen</li>
+<li> Added option to hide the contact name in the status screen</li>
+<li> Added option to hide the name of the contact in Contacts</li>
+<li> Added option to hide the contact name in calls</li>
+<li> Added option to hide the name of the contact in the contact</li>
+<li> Added option to hide the contact name in the contact information</li>
 <li> Add option to show the reading readout after replying to the message (may not work on some devices)</li>
 <li> Adjustments and improvements on the floating button</li>
 <li> Adjustments and improvements on menu</li>
@@ -78,36 +98,25 @@
 <li> Add switch account (you can open two accounts in one account)</li>
 <li> Add backup and restore options</li>
 <li> Add the German language in option change language app</li>
-<li> Add option to disable notification when playing a voice message (may not work on some devices)
-</li>
 <li> Add option to disable notification when playing a voice message (may not work on some devices)</li>
-<li> Add option to disable notification when playing a voice message (may not work on some devices)</li>
-<li> Notification of Revoked Message (Know Which Message was Revoked)</li>
-<li> (Super - Exclusive) Notification of Revoked Message (Know Which Message was Revoked) </li>
-<li> (Exclusively) Fixed Disable Heads-up for Oreo Users (Mod 6.11)</li>
-<li> (Exclusively) Added Back Play Video in your Favourite Player (Mod 6.19)</li>
-<li> Enabled Group Description</li>
-<li> (Exclusive) Added Group Description in Header Like Status</li>
-<li> Enabled Payments (You need to ask someone who is already payments activated to activate for you) (Country Specific) </li>
-<li> Enabled Mention Button</li>
-<li> Added Option to Hide Group Description from Groups Header (Mod 1.2.66)</li>
-<li> Added Back Option to Convert Video to GIF</li>
-<li> Added Option to Edit Auto Reply Message</li>
-<li> Improved AutoReply</li>
-<li> Added Option to Disable Header Vibration when Receive Message from Hidden Chat (Hidden Chats Page - Click on Settings Icon) </li>
-<li> Added Option to Hide Count on Icon for Hidden Chat (Hidden Chats Page - Click on Settings Icon) </li>
-<li> Added Themed New Group Page</li>
-<li> Added Themed New Broadcast Page</li>
-<li> Added Themed Custom Chats Screen</li>
-<li> Added Themed Scheduler Page</li>
-<li> Added Option to Color Unsaved Participants Name in Group (Mod 1.2.67)</li>
-<li> Added Online/Last Seen Text Size on Main Screen (Mod 2.2.30A)</li>
-<li> Added Online/Last Seen Text Size on Contacts Screen (Mod 2.4.13A)</li>
-<li> Fixed Admin Caption (Mod 1.2.64)</li>
-<li> Fixed delete AutoReply</li>
-<li> Fixed Hidden Chat counter Showing On Widget</li>
-<li> Fixed Hidden Chat Opening from Group Info</li>
-<li> Fixed Hidden Group Opening from Groups in Common</li>
+<li> Exclusively Improved Option for Specific/Except Contacts/Groups in Auto-Reply</li>
+<li> Improved No Need to Restart When use Privacy except for Hide Last Seen</li>
+<li> Enabled Locked Voice Recordings (Press and Swipe up/No need to hold for Recording) </li>
+<li> Enabled Group Settings - Send Messages (Once Enabled only Admin can Send Messages in Group)</li>
+<li> Added Stock Fab (Mod 2.7.9)</li>
+<li> Added Option to Hide New Chat Icon from Header (Mod 2.1.11)</li>
+<li> Added Option for Disable Revoked Message Notification(Mod 6.20)</li>
+<li> Added Option to Disable Auto-Reply when Hide Read</li>
+<li> Added Option to Enable Video Icon in Conversation Header (Mod 1.1.16)</li>
+<li> Added Custom Media Auto-Download in Custom Chats</li>
+<li> Added Now You can Search by Name in Theme Server</li>
+<li> Updated Italian & Brazilian language</li>
+<li> Fixed Contacts Name Color when Add Participants</li>
+<li> Fixed Bubble Color</li>
+<li> Fixed Privacy for Blue Microphone</li>
+<li> Fixed GIF Background Color</li>
+<li> Fixed Attach Icon not Showing in Broadcast chat</li>
+<li> Fixed Action Bar Color, Icon Background color, Count color in Hidden Chats & Archived Chats</li>
 <li> Many More Fixes</li>
 
 ","url":"https://klmods.blogspot.de/2018/01/615-klwhatsapp-217427.html"
