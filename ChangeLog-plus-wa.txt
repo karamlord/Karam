@@ -34,7 +34,7 @@
 <li>إصلاح إمكانية الاتصال بمحادثة مخفية من خلال المجموعة</li>
 <li>دعم اللغة الهندية </li>
 <li>إصلاحات اخرى</li>
-
+ 
 <li> New Base Updated to 2.18.9</li>
 <li> (Super Exclusive) AutoReply (Auto Message when you are Busy)</li>
 <li> Ability to hide recent status in status row</li>
