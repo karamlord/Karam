@@ -1,5 +1,13 @@
 {"version_code":452400,"content":"
 <p>تحديث 2.00</p>
 
-","url":"https://klmods.blogspot.de/2018/01/615-klwhatsapp-217427.html"
+<li> اعمل نسخة احتياطية من الاعدادات اضافية >> المزيد من الاعدادات >> نسخ احتياطي</li>
+<li>ثم حمل النسخة و احذف هذة النسخة وثبت الذي حملته و اعمل استعادة للبيانات</li>
+<li>❌❌❌❌❌❌❌</li>
+<li>Make a backup of the KL settings >> More settings >> Backup</li>
+<li> Then download the version, delete this version and Re-install it, and restore the data</li>
+
+
+
+","url":"http://klmods.blogspot.com/2018/03/klwa-plus_24.html"
 }
