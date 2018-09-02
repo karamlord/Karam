@@ -1,123 +1,13 @@
-{"version_code":451205,"content":"
-<p>تحديث 6.50</p>
+{"version_code":451206,"content":"
+<p>ملاحظة : هذة الرسالة سوف تختفي بعد 7 ساعات</p>
+<p>مرحبا 🌹 ، قم بدعمي ب مبلغ مادي عبر باي بال PayPal إن اعجبك برنامجي KLWhatsApp لكي اقوم بتطوير بشكل افضل ولكي اقوم بلاستمرار في التطوير 😘</p>
+<p>  </p>
+<p>  </p>
+<p>اضغط على كلمة (تحديث) في الاسفل وسوف يتم نقلك على صفحة الدعم</p>
+<p>Note: This message will disappear after 7 hours</p>
+<p>Hello my friends, For All Who Want To Donate Here Is My PayPaL Account, Thanks For All 😘</p>
+<p>Click the word "Update" and you will be taken to the support page</p>
 
-</br>
-<li>يجب التحديث الان لان هذة النسخة سوف تتوقف عن العمل خلال بضع ايام قليلة</li>
-</br>
-<li>التحديث لنسخة الماركت 2.18.122</li>
-<li>(حصريا) اضافة ارسال  زر القلب في المحادثة مثل الانستغرام</li>
-<li>(حصرياً) اضافة خيار لنقل الدردشات الى KLWhatsApp بضغطة زر واحدة (اضغط نسخ ثم ثبت النسخة الثانية واضغط استعادة الدردشات من WhatsApp ثم فعل رقمك الثاني)</li>
-<li>(حصرياً) اضافة خيارين لتغيير شكل الشاشة الرئيسية</li>
-<li>(حصرياً) اضافة خيارين لتغيير شكل الشاشة الرئيسية</li>
-<li>(حصرياً) اضافة خيار لإخفاء ازرار العائمة من شاشة الحالة / المكالمات</li>
-<li>(حصريا) اضافة ارسال  زر القلب في المحادثة مثل الانستغرام</li>
-<li>تم حذف ايقونة الانترنت من الواجهة الرئيسية واضافته في الزر العائم (يمكنك اظهاره من خيار اظهار ايقونة الانترنت)*اضافة خيار المزيد في القائمة (منيو)</li>
-<li>امكانية تغيير لون ايقونة الواتساب في اوريو 8.0</li>
-<li>اضافة خيار المساعدة والتعليمات في خيار</li>
-<li>اضافة خيار اخفاء ايقونة الفيديو من الشريط العلوي</li>
-<li>اضافة خيار اخفاء الاسم جهة الاتصال في الشاشة الرئيسية</li>
-<li>اضافة خيار اخفاء الاسم جهة الاتصال في شاشة الحالة</li>
-<li>اضافة خيار اخفاء الاسم جهة الاتصال في جهات الاتصال</li>
-<li>اضافة خيار اخفاء الاسم جهة الاتصال في المكالمات</li>
-<li>اضافة خيار اخفاء الاسم جهة الاتصال في جهة الاتصال</li>
-<li>اضافة خيار اخفاء الاسم جهة الاتصال في معلومات جهة الاتصال</li>
-<li>تعديلات وتحسينات على زر العائم</li>
-<li>تعديلات وتحسينات على القائمة (منيو)</li>
-<li>تعديلات وتحسينات على قفل البرنامج</li>
-<li>اعادة تصميم الاضافات والخصائص</li>
-<li>اعادة تصميم الاضافات والخصائص</li>
-<li>إمكانية السحب المحادثة لليمين لإغلاقها</li>
-<li>إمكانية الرجوع الى الفيسات القديمة</li>
-<li>إمكانية تغيير شكل شاشة الدردشات</li>
-<li>إمكانية وضع اسمك + حالتك + رقمك بدل كلمة WhatsApp في شاشة الرئيسية</li>
-<li>اضافة خيار وضع اسم جهة الاتصال في المتنصف او في اليسار او اخفاءة بلكامل</li>
-<li>إمكانية إخفاء الحالات الحديثة</li>
-<li>إمكانية إخفاء الحالات غير الهامة</li>
-<li>إمكانية إخفاء الحالات التي تمت مشاهدتها في قائمة الحالة / الستوري</li>
-<li>اضافة خيار لتغيير خط الدردشات فقط</li>
-<li>اضافة خيار خيار تعدد الدردشات</li>
-<li>اضافة النص التلقائي للبرنامج</li>
-<li>اضافة المزيد من شكل صناديق الارسال</li>
-<li>اضافة تبديل الحساب (يمكنك فتح حسابين في واتساب واحد)</li>
-<li>اضافة اللغة الالمانية في خيار تغيير لغة البرنامج</li>
-<li>اضافة خيار لتعطيل الاشعار عند تشغيل رسالة صوتية (قد لاتعمل على بعض الاجهزة)</li>
-<li>يمكن للمشرفين الان منع الاعضاء من ارسال الرسائل في المجموعات</li>
-<li>يمكنك الان تسجيل مقاطع صوتية بدون الحاجة للضغط المطول على زر تسجيل الصوت</li>
-<li>يمكن تخصيص الرد التلقائي لمحادثات معينة او استثناء محادثات معينة</li>
-<li>إضافة الخيار رقم 2.7.9 لاختيار شكل الزر العائم كالواتس الرسمي</li>
-<li>إضافة الخيار رقم 2.1.11 لاخفاء زر انشاء دردشة جديدة من المحادثات</li>
-<li>إضافة الخيار رقم 6.20 لتعطيل ظهور تنبيه بان هناك رسائل مسترجعة(محذوفة)</li>
-<li>إضافة خيار لتعطيل الرد التلقائي في حال اخفاء صحين القراءة</li>
-<li>إضافة الخيار رقم 1.1.16 لإظهار ايقونة الفيديو في المحادثة</li>
-<li>يمكنك الان معرفة المحادثات التي قمت بتفعيل التحميل التلقائي لها.(افتح الواتساب - خيارات - المحادثات المخصصة)</li>
-<li>يمكنك الان البحث عن الثيمات من خلال اسم الثيم</li>
-<li>إصلاح لون الاسماء عند اضافة عضو جديد لاي مجموعة</li>
-<li>إصلاح لون فقاعات الدردشة</li>
-<li>إصلاح إخفاء اشارة التشغيل</li>
-<li>إصلاح عدم ظهور ايقونة الارفاق في محادثة الرسائل الجماعية</li>
-<li>إصلاح لون الشريط العلوي للمحادثات المخفية و المؤرشفة</li>
-<li>تحديث اللغة الايطالية والبرازيلية</li>
-<li>إصلاحات اخرى</li>
 
-<li> New Base Updated to 2.18.122</li>
-<li> (Exclusive) Added heart button in the chat screen</li>
-<li>(Exclusive) Add option to transfer chats to KLWhatsApp with the click of a button (press Copy and then install the second version and press Restore chats from WhatsApp and then do your second number)</li>
-<li> (Exclusive) Add two options to change the main screen</li>
-<li> (Exclusive) Add option to hide floating buttons from the Status / Calls screen</li>
-<li> DND Mode has been deleted from the action bar of chats screen and added in floating bottom</li>
-<li> Added Oreo WhatsApp Launcher icon</li>
-<li> Added option to show DND Mode icon in action bar of chats screen</li>
-<li> Added the (more) option in menu</li>
-<li> Added the Help option in the More option</li>
-<li> Added option to hide the video icon from the top bar</li>
-<li> Added option to show the attachment icon from the top bar of the conversation</li>
-<li> Added option to hide the contact name on the home screen</li>
-<li> Added option to hide the contact name in the status screen</li>
-<li> Added option to hide the name of the contact in Contacts</li>
-<li> Added option to hide the contact name in calls</li>
-<li> Added option to hide the name of the contact in the contact</li>
-<li> Added option to hide the contact name in the contact information</li>
-<li> Add option to show the reading readout after replying to the message (may not work on some devices)</li>
-<li> Adjustments and improvements on the floating button</li>
-<li> Adjustments and improvements on menu</li>
-<li> Adjustments and improvements on program lock</li>
-<li> Redesign Settings Plus</li>
-<li> You can swipe the conversation to the left to close it</li>
-<li> You can back to old emoji</li>
-<li> You can change chats screen style</li>
-<li> You can put your name + status + your number in the bar instead of WhatsApp on the Home screen</li>
-<li> Add the option to put the contact's name in center or left or hide</li>
-<li> you can Hide Recent status</li>
-<li> you can Hide muted status</li>
-<li> you can Hide Viewed status</li>
-<li> Add option to change the chats font only</li>
-<li> Add option to multiple chat</li>
-<li> Add automatic text to program</li>
-<li> Add option to hide AutoText icons</li>
-<li> Add more style for entry chats</li>
-<li> Add switch account (you can open two accounts in one account)</li>
-<li> Add backup and restore options</li>
-<li> Add the German language in option change language app</li>
-<li> Add option to disable notification when playing a voice message (may not work on some devices)</li>
-<li> Exclusively Improved Option for Specific/Except Contacts/Groups in Auto-Reply</li>
-<li> Improved No Need to Restart When use Privacy except for Hide Last Seen</li>
-<li> Enabled Locked Voice Recordings (Press and Swipe up/No need to hold for Recording) </li>
-<li> Enabled Group Settings - Send Messages (Once Enabled only Admin can Send Messages in Group)</li>
-<li> Added Stock Fab (Mod 2.7.9)</li>
-<li> Added Option to Hide New Chat Icon from Header (Mod 2.1.11)</li>
-<li> Added Option for Disable Revoked Message Notification(Mod 6.20)</li>
-<li> Added Option to Disable Auto-Reply when Hide Read</li>
-<li> Added Option to Enable Video Icon in Conversation Header (Mod 1.1.16)</li>
-<li> Added Custom Media Auto-Download in Custom Chats</li>
-<li> Added Now You can Search by Name in Theme Server</li>
-<li> Updated Italian & Brazilian language</li>
-<li> Fixed Contacts Name Color when Add Participants</li>
-<li> Fixed Bubble Color</li>
-<li> Fixed Privacy for Blue Microphone</li>
-<li> Fixed GIF Background Color</li>
-<li> Fixed Attach Icon not Showing in Broadcast chat</li>
-<li> Fixed Action Bar Color, Icon Background color, Count color in Hidden Chats & Archived Chats</li>
-<li> Many More Fixes</li>
-
-","url":"https://klmods.blogspot.de/2018/01/615-klwhatsapp-217427.html"
+","url":"https://www.paypal.me/karamlord"
 }
