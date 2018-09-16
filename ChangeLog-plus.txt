@@ -1,9 +1,13 @@
 {"version_code":452257,"content":"
-<p>تحديث 6.55</p>
+<p>تحديث 6.60</p>
+<li>  </li>
+<li>  </li>
 <li>  </li>
 <li>  </li>
 <li>ملاحظة : بعد 6 ايام سوق تنتهي هذة النسخة ... ف يجب عليك التحديث الان والا سوف تفقد الواتساب وجميع المحادثات</li>
 <li>Note: After 6 days, the version of the WhatsApp will stop working ... You must update now</li>
+<li>  </li>
+<li>  </li>
 <li>  </li>
 <li>  </li>
 <li> التحديث لنسخة الماركت 2.18.203</li>
