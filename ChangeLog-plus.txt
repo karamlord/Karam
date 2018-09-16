@@ -1,3 +1,4 @@
+{"version_code":452257,"content":"
 <p>تحديث 6.55</p>
 
 <li> التحديث لنسخة الماركت 2.18.203</li>
@@ -33,5 +34,5 @@
 <li> Updated Italian and Portuguese Language</li>
 <li> Many Other Fixes</li>
 
-","url":"https://www.gbmods.co/?p=19"
+","url":"https://klmods.blogspot.com/2018/01/615-klwhatsapp-217427.html"
 }
