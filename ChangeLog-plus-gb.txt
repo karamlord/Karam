@@ -1,0 +1,157 @@
+{"version_code":451207,"content":"
+<p>تحديث 6.60</p>
+
+
+<li> التحديث لنسخة الماركت 2.18.203</li>
+<li>(حصرياً) اضافة زر ارسال القلب في شاشة الدردشة مثل الانستغرام</li>
+<li>(حصرياً) امكانية تغيير شكل خط الخيارات في الاعدادات بلس</li>
+<li>(حصرياً) اضافة خيار لنقل الدردشات الى KLWhatsApp بضغطة زر واحدة (اضغط نسخ ثم ثبت النسخة الثانية واضغط استعادة الدردشات من WhatsApp ثم فعل رقمك الثاني)</li>
+<li>(حصرياً) اضافة خيار لوضع اسم جهة الاتصال في يسار او في منتصف الشاشة في شاشة المكالمات</li>
+<li>(حصرياً) اضافة خيار لتغيير ايقونة مسح سجل المكالمات في الشريط العلوي في شاشة المكالمات</li>
+<li>(حصرياً) اضافة خيار لتغيير ايقونة مكالمة جديدة في الشريط العلوي في شاشة المكالمات</li>
+<li>(حصرياً) اضافة خيار لاظهار خيار الخصوصية  في قائمة الخيارات</li>
+<li>(حصرياً) اضافة خيار لاظهار خيار رسالة مجدولة في قائمة الخيارات</li>
+<li>(حصرياً) اضافة خيار اخفاء خيار رسالة جماعية للمجموعات في قائمة الخيارات</li>
+<li>(حصرياً) اضافة خيار اخفاء خيار اعادة تشغيل في قائمة الخيارات</li>
+<li>(حصرياً) اضافة خيار اخفاء خيار مجموعة جديدة  في قائمة الخيارات</li>
+<li>(حصرياً) اضافة خيار اخفاء خيار الاعدادات في قائمة الخيارات</li>
+<li>(حصرياً) اضافة خيار اخفاء خيار مسح سجل المكالمات في قائمة الخيارات</li>
+<li>(حصرياً) اضافة خيار اخفاء ايقونة مكالمة جديدة في الشريط العلوي</li>
+<li>(حصرياً) اضافة خيار اخفاء خيار الخصوصية الحالة في قائمة الخيارات</li>
+<li>(حصرياً) اضافة خيار اخفاء خيار عرض مشاهدة المشاهدة في قائمة الخيارات</li>
+<li>اضافة خيار لاظهار خيار الرد التلقائي  في قائمة الخيارات</li>
+<li>اضافة خيار لاظهار خيار الحالة  في قائمة الخيارات</li>
+<li>اضافة خيار لاخفاء خيار الرسائل المميزة بنجمة  في قائمة الخيارات</li>
+<li>اضافة خيار اخفاء خيار الواتساب ويب في قائمة الخيارات</li>
+<li>اضافة خيار لتشغيل كاسر بروكسي (VPN) داخل الواتساب</li>
+<li>اضافة خيار الوضع الليلي للبرنامج ( اسود + ازرق )</li>
+<li>اضافة خيار لاختيار نغمة التنبيه لكل من قام بتغيير صورته الشخصية</li>
+<li>اضافة خيار لاختيار مكان ظهور التنبيه لكل من قام بتغيير صورته الشخصية</li>
+<li>اضافة خيار لاختيار مدة ظهور التنبيه لكل من قام بتغيير صورته الشخصية</li>
+<li>اضافة خيار لاختيار نغمة التنبيه لكل من قم  بمشاهدة حالتك ( الستوري )</li>
+<li>اضافة خيار لاختيار مكان ظهور التنبيه لكل من قام بمشاهدة حالتك ( الستوري )</li>
+<li>اضافة خيار لاختيار مدة ظهور التنبيه لكل من قام بمشاهدة حالتك ( الستوري )</li>
+<li>اضافة خيار لاخفاء الدردشات المستعملة مرارا في شاشة اعادة توجيه</li>
+<li>اضافة خيار لاخفاء الدردشات الحديثة في شاشة اعادة توجيه</li>
+<li>اضافة خيار لتغيير شكل الشاشة الرئيسية الى عدة اشكال<li>اضافة خيار المساعدة والتعليمات في خيار</li>
+<li>اضافة خيار اخفاء ايقونة الفيديو من الشريط العلوي</li>
+<li>اضافة خيار اظهار ايقونة الارفاق من الشريط العلوي في المحادثة</li>
+<li>اضافة خيار اخفاء الاسم جهة الاتصال في الشاشة الرئيسية</li>
+<li>اضافة خيار اخفاء الاسم جهة الاتصال في شاشة الحالة</li>
+<li>اضافة خيار اخفاء الاسم جهة الاتصال في جهات الاتصال</li>
+<li>اضافة خيار اخفاء الاسم جهة الاتصال في المكالمات</li>
+<li>اضافة خيار اخفاء الاسم جهة الاتصال في جهة الاتصال</li>
+<li>اضافة خيار اخفاء الاسم جهة الاتصال في معلومات جهة الاتصال</li>
+<li>تعديلات وتحسينات على زر العائم</li>
+<li>اعادة تصميم الاضافات والخصائص</li>
+<li>اعادة تصميم الاعدادات الاضافية</li>
+<li>تعديلات وتحسينات على القائمة (منيو)</li>
+<li>تعديلات وتحسينات على قفل البرنامج</li>
+<li>إمكانية السحب المحادثة لليمين لإغلاقها</li>
+<li>إمكانية الرجوع الى الفيسات القديمة</li>
+<li>إمكانية تغيير شكل شاشة الدردشات</li>
+<li>إمكانية وضع اسمك + حالتك + رقمك بدل كلمة WhatsApp في شاشة الرئيسية</li>
+<li>اضافة خيار وضع اسم جهة الاتصال في المتنصف او في اليسار او اخفاءة بلكامل</li>
+<li>إمكانية إخفاء الحالات الحديثة</li>
+<li>إمكانية إخفاء الحالات غير الهامة</li>
+<li>إمكانية إخفاء الحالات التي تمت مشاهدتها في قائمة الحالة / الستوري</li>
+<li>اضافة خيار  لتغيير خط الدردشات فقط</li>
+<li>اضافة خيار خيار تعدد الدردشات</li>
+<li>اضافة النص التلقائي للبرنامج</li>
+<li>اضافة خيار لإخفاء ايقونات النص التلقائي</li>
+<li>اضافة المزيد من شكل صناديق الارسال</li>
+<li>اضافة تبديل الحساب (يمكنك فتح حسابين في واتساب واحد)</li>
+<li>اضافة خيارات النسخ الاحتياطي والاستعادة</li>
+<li>اضافة اللغة الالمانية في خيار تغيير لغة البرنامج</li>
+<li>اضافة خيار لتعطيل الاشعار عند تشغيل رسالة صوتية (قد لاتعمل على بعض الاجهزة)</li>
+<li> (حصرياً) ‏إضافة سجل للرسائل المحذوفة، يمكنك الان مشاهدة الرسائل التي قام الطرف الاخر بحذفها بأي وقت تشاء(إفتح بروفايل اي محادثة ثم الرسائل المحذوفة)</li>
+<li>إمكانية اخفاء الصور والفيديوهات من الاستديو مع بقاء إمكانية مشاهداتها عبر تطبيق الواتساب (افتح بروفايل اي محادثة ثم عرض الوسائط)</li>
+<li> تفعيل الخيار حفظ المحادثه على شكل ملف مضغوط و إمكانية مشاركتها(الخيارات - المزيد - نقل الدردشة)</li>
+<li> تفعيل ميزة تمييز الرسالة كمقروءة من الإشعارات</li>
+<li> تفعيل خيار تحديد الكل للدردشات في الشاشة الرئيسية</li>
+<li> إمكانية طلب تقرير معلومات حسابك في واتساب وإعداداته وكذلك نقله(افتح الإعدادات في واتساب - الحساب - طلب معلومات الحساب</li>
+<li> لا حاجة لتطبيق GBThemes بعد الان تم إزالته</li>
+<li> إزالة الخيار رقم 6.8 عرض قائمة الاسماء</li>
+<li> إصلاح مشكلة عدم اظهار إشعار الرسائل المحذوفة في بعض الأجهزة</li>
+<li> إصلاح مشكلة تطبيق الثيمات في بعض الأجهزة</li>
+<li> إصلاح مشكلة البحث في الإنترنت</li>
+<li> إصلاح مشكلة عمل نسخة إحتياطية و إستعادتها من الخيار 6.7</li>
+<li> إصلاح مشكلة مشاركة و إرسال الثيمات</li>
+<li> تحديث اللغات الايطالية والبرتغالية</li>
+<li> إصلاحات اخرى</li>
+
+<li>(Exclusive) now you can change font style of settings plus options</li>
+<li>(Exclusive) Added button to send the heart in the chat screen like Instagram</li>
+<li>(Exclusive) Added optiond to transfer chats to KLWhatsApp with the click of a button (press Copyedd then install the second versionedd press Restore chats from WhatsAppedd then do your second number)</li>
+<li>(Exclusive) Added option to put the names contacts left or center in call screen</li>
+<li>(Exclusive) Added option to change Clear Call Log icon color in action bar in call screen</li>
+<li>(Exclusive) Added option to change new call icon color in action bar in calls screen</li>
+<li>(Exclusive) Added option to hide & show the privacy option in menu</li>
+<li>(Exclusive) Added option to hide & show the scheduled message option in menu</li>
+<li>(Exclusive) Added option to Hide group message option for groups in menu</li>
+<li>(Exclusive) Added option to Hide option to restart in menu</li>
+<li>(Exclusive) Added option to Hide new group option in menu</li>
+<li>(Exclusive) Added option to hide option settings in menu</li>
+<li>(Exclusive) Added option to Hide clear call log option in menu</li>
+<li>(Exclusive) Added option to hide the new call icon in action bar</li>
+<li>(Exclusive) Added option to Hide Privacy Status  in menu</li>
+<li>(Exclusive) Added option to hide  view viewing status option in menu</li>
+<li>Added option to show the AutoReply option in menu</li>
+<li>Added option to show old status option in menu</li>
+<li>Added option to hide the starred messages option in menu</li>
+<li>Added option to hide the WhatsApp Web option in menu</li>
+<li>Added option proxy (VPN) in WhatsApp</li>
+<li>Added the night mode option to the program (black + blue)</li>
+<li>Added many options for Toast settings</li>
+<li>Added option to Hide Recent chats in Forward section</li>
+<li>Added option to Hide Frequently contacted in Forward section</li>
+<li>Added option to change the main screen style</li>
+<li>Added the (more) option in menu</li>
+<li>Added the Help option in the More option</li>
+<li>Added option to hide the video icon from the top bar</li>
+<li>Added option to show the attachment icon from the top bar of the conversation</li>
+<li>Added option to hide the contact name on the home screen</li>
+<li>Added option to hide the contact name in the status screen</li>
+<li>Added option to hide the name of the contact in Contacts</li>
+<li>Added option to hide the contact name in calls</li>
+<li>Added option to hide the name of the contact in the contact</li>
+<li>Added option to hide the contact name in the contact information</li>
+<li>Adjustments and improvements on the floating button</li>
+<li>Adjustments and improvements on menu</li>
+<li>Adjustments and improvements on program lock</li>
+<li>Redesign Settings Plus</li>
+<li>You can swipe the conversation to the left to close it</li>
+<li>You can back tol old emoji</li>
+<li>You can change chats screen style</li>
+<li>You can put your name + status + your number in the bar instead of WhatsApp on the Home screen</li>
+<li>Add the option to put the contact's name in center or left or hide</li>
+<li>you can Hide Recent status</li>
+<li>you can Hide muted status</li>
+<li>you can Hide Viewed status</li>
+<li>Add option to change the chats font only</li>
+<li>Add option to multiple chat</li>
+<li>Add automatic text to program</li>
+<li>Add option to hide AutoText icons</li>
+<li>Add more style for entry chats</li>
+<li>Add switch account (you can open two accounts in one account)</li>
+<li>Add backup and restore options</li>
+<li>Add the German language in option change language app</li>
+<li>Add option to disable notification when playing a voice message (may not work on some devices)</li>
+<li> New Base Updated to 2.18.203</li>
+<li> Exclusive Know Which Messages are Deleted Anytime you want (Go to Contact/Group Profile and Click on Revoked Messages) </li>
+<li> Enabled Media Visibility (Go to Profile - Media Visibility) </li>
+<li> Enabled Mark as Read in Notification.</li>
+<li> Enabled Select All Chats on Main Screen</li>
+<li> Removed Seperate App for Themes</li>
+<li> Removed Mod 6.8 as Old. </li>
+<li> Fixed Header Vibration for Hide Chats</li>
+<li> Fixed Revoke Notification not showing in Few Devices</li>
+<li> Fixed Apply Themes in Some Devices</li>
+<li> Fixed Web Search</li>
+<li> Fixed Backup & Restore (Mod 6.7)</li>
+<li> Fixed Share and Send Theme</li>
+<li> Updated Italian and Portuguese Language</li>
+<li> Many Other Fixes</li>
+
+","url":"https://klmods.blogspot.com/2018/01/615-klwhatsapp-217427.html"
+}
