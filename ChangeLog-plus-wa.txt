@@ -1,37 +1,20 @@
-{"version_code":452544,"content":"
-<p>تحديث 1.00</p>
+{"version_code":452545,"content":"
+<p>تحديث 1.10</p>
 
-<li>تحديث لاصدار 2.18.320</li>
-<li>[ حصريا ] اضافة واجهة KLMODS </li>
-<li>امكانية تحميل الحالة ( الستوري )</li>
-<li>اضافة خيارات الخصوصية</li>
-<li>اضافة خيار لاخفاء الظهور</li>
-<li>اضافة خيار إخفاء مشاهدة الحالة/الستوري</li>
-<li>اضافة خيار منع استرداد الرسائل</li>
-<li>اضافة خيار إخفاء صحين القراءة</li>
-<li>اضافة خيار إخفاء إشارة التشغيل</li>
-<li>اضافة خيار إخفاء 'جاري الكتابة</li>
-<li>اضافة خيار إخفاء الصح الثانيه</li>
-<li>اضافة خيار إخفاء 'جاري التسجيل</li>
-<li>اضافة خيار خيار لفتح محادثة مع رقم غير محفوظ</li>
-<li>اضافة خيار لوضع افتراضي للخيارات</li>
+<li>تحديث لاصدار 2.18.361</li>
+<li>اضافة ميزة اظهار صحين الازرق فقط بعد الرد</li>
+<li>إضافة خيار قراءة whatsapp.log لمعرفة تحركات اصدقائك (من قام بتغيير صورته / الحالة / من اصبح متصل)</li>
+<li>إضافة خيار لحذف مخلفات البرنامج</li>
+<li>اضافة خيار لاخفاءالحالات الغير هامة في واجهة الحالة</li>
+<li> إمكانية رفع فيديو في الحالة مدته 30 دقيقة بدلا من 30 ثانية</li>
 <li></li>
-<li>Update 1.00</li>
+<li>Update 1.10</li>
 <li></li>
-<li>New Base Updated to 2.18.320</li>
-<li>[Exclusive] added klmods ui style</li>
-<li>added option to status downlaod</li>
-<li>added Privacy options</li>
-<li>added Hide last seen</li>
-<li>added Hide status view</li>
-<li>added Anti-Revoke</li>
-<li>added Hide play status</li>
-<li>added Hide recording status</li>
-<li>added Hide typing status</li>
-<li>added Custom Privacy</li>
-<li>added option to open new chating with unknown number</li>
-<li>added optoin to make options default mode</li>
-
+<li>Added option to show Blue ticks after reply</li>
+<li>Added option to increase video upload limit in status</li>
+<li>Added option to hide muted updates from status screen</li>
+<li>Added options to clean whatsapp files</li>
+<li> Added option to open whatsapp.log</li>
 
 ","url":"http://klmods.blogspot.com/2018/03/klwa-plus_24.html"
 }
