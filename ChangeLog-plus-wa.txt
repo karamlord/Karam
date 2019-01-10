@@ -1,4 +1,4 @@
-{"version_code":452621,"content":"
+{"version_code":452596,"content":"
 <p>تحديث 1.20</p>
 
 <li>تحديث لاصدار 2.18.380</li>
