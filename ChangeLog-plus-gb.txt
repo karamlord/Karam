@@ -1,7 +1,16 @@
-{"version_code":451211,"content":"
-<p>تحديث 6.85</p>
+{"version_code":452646,"content":"
+<p>تحديث 6.90</p>
 
-<li>التحديث لنسخة الماركت 2.19.17</li>
+<li>تحديث اجباري .. يجب تحديث الان قبل ان يتم انتهاء صلاحية النسخة</li>
+<li>Update must be updated now before the version expires</li>
+
+<li>ضافة ميزة تقطيع الفيديو ( تقسيم الحالة )</li>
+<li>إضافة شريط  الاختصارات في الشاشة الرئيسية</li>
+<li>إضافة خيار اظهار/اخفاء شريط الاختصارات</li>
+<li>اضافة خيار لتخصيص لون ايقونة القلب في شاشة المحادثة</li>
+<li>اضافة خيار لتغيير شكل الخصوصية في قائمة الخيارات</li>
+<li>اضافة خيار لاخفاء ايقونة البحث من الشاشة الرئيسية</li>
+<li>تحسينات جديدة على الزر العائم</li>
 <li>إضافة الفيسات الجديدة</li>
 <li>يمكنك عمل مكالمة جماعية ما اعضاء المجموعات</li>
 <li>اذا قمت بتحديد رسالة مرسلة في المجموعة يمكنك الرد على مرسلها بشكل منفرد في الخاص</li>
@@ -9,8 +18,15 @@
 <li>اصلاح اضافة الملصقات من قوقل بلاي</li>
 <li>إصلاحات اخرى</li>
 
-<li> Added Now You can Add Stickers From PlayStore to any Package</li>
 <li> New Base Updated to 2.19.17</li>
+<li> Added Video Splitter for Story</li>
+<li> Added option to show/hide navigation bar</li>
+<li> Added some options to select color for kl-gb settings</li>
+<li> Added option to select color for hearth icon in conversation screen </li>
+<li> Added option to change privacy style</li>
+<li> Added option to hide search icon in main screen</li>
+<li> New improvements to the floating button</li>
+<li> Added Now You can Add Stickers From PlayStore to any Package</li>
 <li> Added New Emojis</li>
 <li> Added You can call Participants in groups</li>
 <li> Added Reply Privately when select message in groups</li>
