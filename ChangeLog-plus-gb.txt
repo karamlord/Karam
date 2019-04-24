@@ -1,8 +1,5 @@
-{"version_code":451212,"content":"
+{"version_code":451211,"content":"
 <p>تحديث 6.90</p>
-
-<li>تحديث اجباري .. يجب تحديث الان قبل ان يتم انتهاء صلاحية النسخة</li>
-<li>Update must be updated now before the version expires</li>
 
 <li>ضافة ميزة تقطيع الفيديو ( تقسيم الحالة )</li>
 <li>إضافة شريط  الاختصارات في الشاشة الرئيسية</li>
