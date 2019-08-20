@@ -1,42 +1,8 @@
-{"version_code":452625,"content":"
-<p>تحديث 1.20</p>
+{"version_code":452894,"content":"
+<p>تحديث 1.30</p>
 
-<li>تحديث لاصدار 2.18.380</li>
-<li>Added lock app (Password)</li>
-<li>امكانية قفل التطبيق بواسطة كلمة مرور</li>
-<li>تحسين ميزة فتح دردشة جديدة مع رقم غير محفوظ</li>
-<li>اضافة خيار لاخفاء الخط الفاصل بين صفوف الدردشات</li>
-<li>امكانية اخفاء خيار الدردشات المؤرشفة </li>
-<li>امكانية اخفاء الحالات التي تمت مشاهدتها</li>
-<li>امكانية اخفاء الحالات الحديثة</li>
-<li>امكانية اخفاء الاسم والتاريخ عند نسخ اكثر من رسالة من الدردشة</li>
-<li>اضافة خيار لالغاء فتح الكيبورد بشكل تلقائي في الدردشة</li>
-<li>اضافة خيار لتفعيل تحديد الرسائل في الدردشة</li>
-<li>اضافة خيار لعرض الرسائل الطويلة بدون قراءة المزيد</li>
-<li>اضافة خيار لتفعيل تعدد الدردشات</li>
-<li>اضافة خيار لتحديد حجم ارسال الفيديو (100MB (</li>
-<li>اضافة خيار لتحديد حجم ارسال المقطع الصوتي ( 40MB (</li>
-<li>اضافة خيار لارسال الصورة بدقة عالية</li>
-<li>تحسينات اخرى</li>
-
-<li></li>
-<li>Update 1.20</li>
-<li></li>
-<li>New Base Updated to 2.18.380</li>
-<li>Added lock app (Password)</li>
-<li>improvements feature new chatting with unsaved</li>
-<li>Added option to hide list divider from conversations row</li>
-<li>Added option to hide archived chats label</li>
-<li>Added option to hide viewed status</li>
-<li>Added option to hide data and name</li>
-<li>Added option to cancel open the keyboard</li>
-<li>Added option to make text selectable</li>
-<li>Added option to remove read more</li>
-<li>Added option to make conversation card (Multi Chats)</li>
-<li>Added option to upload size limit (Video)</li>
-<li>Added option to upload size limit (Audio)</li>
-<li>Added Ability to send Image with High Quality in conversation</li>
-<li>other improvements</li>
+<li>! تحديث اصلاحي للتطبيق , يجب التحديث الان</li>
+<li>Fix update , Upgrare now !</li>
 
 ","url":"http://klmods.blogspot.com/2018/03/klwa-plus_24.html"
 }
