@@ -1,8 +1,8 @@
-{"version_code":452894,"content":"
+{"version_code":452910,"content":"
 <p>تحديث 1.30</p>
 
-<li>! تحديث اصلاحي للتطبيق , يجب التحديث الان</li>
-<li>Fix update , Upgrare now !</li>
+<li>! تحديث جديد للتطبيق , يجب التحديث الان</li>
+<li>New update , Upgrare now !</li>
 
 ","url":"http://klmods.blogspot.com/2018/03/klwa-plus_24.html"
 }
