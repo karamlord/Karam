@@ -1,5 +1,5 @@
 {"version_code":452942,"content":"
-<p>تحديث 1.40</p>
+<p>تحديث 1.60</p>
 
 <li>! تحديث جديد للتطبيق , يجب التحديث الان</li>
 <li>New update , Upgrare now !</li>
