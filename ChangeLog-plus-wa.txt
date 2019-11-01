@@ -1,8 +1,17 @@
-{"version_code":452942,"content":"
-<p>تحديث 1.60</p>
+{"version_code":452943,"content":"
+<p>رسالة سوف تختفي بعد 24 ساعة من الان</p>
+<p>This message will be removed after 24h</p>
 
-<li>! تحديث جديد للتطبيق , يجب التحديث الان</li>
-<li>New update , Upgrare now !</li>
+<li>.</li>
+<li>.</li>
+<li>.</li>
+<li>.</li>
+<li>مرحبا 🌹 ،  قم بدعمي ب مبلغ مادي إن اعجبتك برامجي لكي اقوم بتطوير بشكل افضل ولكي اقوم بلاستمرار في التطوير 😘</li>
+<li>.</li>
+<li>.</li>
+<li>.</li>
+<li>.</li>
+<li>Hello my friends, For All Who Want To Donate Here Is My PayPaL Account, Thanks For All 😘</li>
 
 ","url":"http://klmods.blogspot.com/2018/03/klwa-plus_24.html"
 }
