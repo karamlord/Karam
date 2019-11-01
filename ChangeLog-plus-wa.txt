@@ -3,14 +3,15 @@
 <p>This message will be removed after 24h</p>
 
 
-<li>.</li>
+
 <li>.</li>
 <li>.</li>
 <li>مرحبا 🌹 ،  قم بدعمي ب مبلغ مادي إن اعجبتك برامجي لكي اقوم بتطوير بشكل افضل ولكي اقوم بلاستمرار في التطوير 😘</li>
-<li>.</li>
-<li>.</li>
+<li>اضغط على تحديث الان للتبرع</li>
 <li>.</li>
 <li>Hello my friends, For All Who Want To Donate Here Is My PayPaL Account, Thanks For All 😘</li>
+<li>.</li>
+
 
 ","url":"https://www.paypal.com/paypalme2/karamlord"
 }
