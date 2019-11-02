@@ -1,4 +1,4 @@
-{"version_code":452943,"content":"
+{"version_code":452942,"content":"
 <p>رسالة سوف تختفي بعد 24 ساعة من الان</p>
 <p>This message will be removed after 24h</p>
 
