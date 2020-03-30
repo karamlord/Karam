@@ -1,12 +1,12 @@
-{"version_code":453096,"content":"
-<p>1.70</p>
+{"version_code":453193,"content":"
+<p>1.90</p>
 
 
 
 <li>  </li>
-<li>تحديث جديد واتساب الترا اصدار 1.70 - 2.19.360</li>
+<li>تحديث جديد واتساب الترا اصدار 1.80 - 2.20.47</li>
 <li>  </li>
-<li>New Update WhatsApp Ultra v1.70 - 2.19.360</li>
+<li>New Update WhatsApp Ultra v1.80 - 2.20.47</li>
 <li>  </li>
 
 
