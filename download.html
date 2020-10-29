@@ -1,0 +1,32 @@
+<html>
+  <body>
+<div dir="rtl" style="text-align: right;" trbidi="on">
+
+
+<style type="text/css">
+#amni8-timer{width: 200px; background: #FF0000; color: #fff; text-align: center; padding: 5px 0px 5px 0px; margin: 10px auto; font: normal normal 13px Droid Arabic Naskh,sans-serif; border-radius: 3px;}
+#amni8-timer:hover {opacity: .94; }
+</style>
+<div style="text-align: center;">
+<script type="text/javascript">
+var settimmer = 0;
+$(function(){
+window.setInterval(function() {
+var timeCounter = $("b[id=show-time]").html();
+var updateTime = eval(timeCounter)- eval(1);
+$("b[id=show-time]").html(updateTime);
+if(updateTime == 0){
+$("div[id=amni8-timer]").html("").html("جاري بدء التحميل");
+window.location = ("http://www.saif-mods.com/p/whatsapp.html");
+}
+}, 1000);
+});
+</script>
+سيتم تحميل التحديث تلقائيا</div>
+<div id="amni8-timer">
+من فضلك انتظر... <b id="show-time">20</b> ثانية</div>
+
+</div>
+    
+      </body>
+    </html>
