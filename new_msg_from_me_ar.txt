@@ -1,18 +1,12 @@
-
-{"version_code":205104001,"content":"
-<p>Test</p>
-
-
-<li>Test</li>
-<li>Test</li>
-<li>Test</li>
-<li>Test</li>
-<li>Test</li>
-<li>Test</li>
-<li>Test</li>
-<li>Test</li>
-<li>Test</li>
+{"version_code":205104002,"content":"
+<p>تابعني على تويتر</p>
 
 
-","url":"http://klmods.blogspot.com/2018/03/klwa-plus_24.html"
+<li>يرجى متابعتي على تويتر لمعرفة كل شيء عن تحديثات/أخبار واتساب الترا</li>
+<li>سيتوفر إصدار جديد محدود الوقت قريبًا (إصدار الشتاء)</li>
+<li>ستختفي هذه الرسالة بعد 24 ساعة</li>
+<li>انقر فوق فتح للانتقال الى صفحة المطور على تويتر</li>
+
+
+","url":"https://twitter.com/klmods"
 }
