@@ -4,13 +4,8 @@
 
 <li>Please follow me on twitter to know everything about whatsapp ultra updates/news</li>
 <li>New Limited time edition will be available soon ( Winter Edition )</li>
-<li> ­ ­ ­ ­ ­ ­ ­ ­</li>
 <li>This message will be gone after 24 hour</li>
-<li>Click on open to follow</li>
-<li>Test</li>
-<li>Test</li>
-<li>Test</li>
-<li>Test</li>
+<li>Click Open to go to the developer page on Twitter</li>
 
 
 ","url":"https://twitter.com/klmods"
